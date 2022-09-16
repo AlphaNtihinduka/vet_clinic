@@ -10,3 +10,7 @@ date_of_birth DATE,
 escape_attempts INT,
 neutered BOOL,
 weight_kg DECIMAL);
+
+-- update colums
+ALTER TABLE animals 
+ADD species varchar(30);
