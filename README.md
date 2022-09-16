@@ -15,17 +15,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Ntihinduka Alpha**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AlphaNtihinduka)
+- Twitter: [@twitterhandle](https://twitter.com/@alphantihinduka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ntihinduka-alpha-81bb7b22a/)
 
 ## 🤝 Contributing
 
